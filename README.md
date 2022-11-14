@@ -6,5 +6,5 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 ## Reporting issues
 
-Please report issues at <https://github.com/SMPTE/st433/issues> or at the 21DC Chairs <21dc-chair@smpte.org>.
+Please report issues at <https://github.com/SMPTE/st433/issues> or at the 27C Chairs <27c-chair@smpte.org>.
 
